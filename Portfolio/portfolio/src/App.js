@@ -5,11 +5,11 @@ import Project from './components/Project';
 import './App.css';
 
 const projectList = [
-        {title: "Password Generator", link: "https://zfrakes.github.io/Password-Generator/", image: "images/Password Generator.png"},
-        {title: "Day Planner", link: "https://zfrakes.github.io/Day-Planner/", image: "images/Day Planner.png"},
+        {title: "Password Generator", link: "https://zfrakes.github.io/Password-Generator/", image: "images/PasswordGenerator.png"},
+        {title: "Day Planner", link: "https://zfrakes.github.io/Day-Planner/", image: "images/DayPlanner.png"},
         {title: "Project One (What do you want to eat?)", link: "https://hannalip.github.io/Group-Project-01/", image: "images/Project1.png"},
-        {title: "Weather Dashboard", link: "https://zfrakes.github.io/Weather-Dashboard/", image: "images/Weather Dashboard.png"},
-        {title: "Note Taker", link: "https://safe-lowlands-48369.herokuapp.com/", image: "images/Note Taker.png"},
+        {title: "Weather Dashboard", link: "https://zfrakes.github.io/Weather-Dashboard/", image: "images/WeatherDashboard.png"},
+        {title: "Note Taker", link: "https://safe-lowlands-48369.herokuapp.com/", image: "images/NoteTaker.png"},
         {title: "Project Two (JavaSips.Js)", link: "https://coffee-ordering-group-project.herokuapp.com/", image: "images/JavaSips.png"},
     ];
 function App() {

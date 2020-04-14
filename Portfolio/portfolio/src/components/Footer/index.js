@@ -22,7 +22,7 @@ function Footer (props) {
                             <a href="https://github.com/zfrakes" target="_blank">
                                 <img src="https://img.icons8.com/ios/50/000000/github.png" className="btn btn-lg social-button git-hub" />
                             </a>
-                            <a href="Resume .pdf" target="_blank">
+                            <a href="Resume.pdf" target="_blank">
                                 <img src="https://img.icons8.com/carbon-copy/100/000000/resume.png" className="btn btn-lg social-button link-resume" />
                             </a>
                             <a href="https://www.linkedin.com/in/zoey-frakes-a929b615b/" target="_blank" className="btn btn-lg social-button link-linkedin"><i className="fa fa-linkedin"></i>
