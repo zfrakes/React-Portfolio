@@ -7,9 +7,9 @@ function Header (props) {
           <h1 id="name">Zoey Frakes</h1>
           <div className="navbar-collapse" id="navbarNavAltMarkup">
               <div className="navbar-nav ml-auto">
-                  <a className="nav-item nav-link" href="#about">About</a>
-                  <a className="nav-item nav-link" href="#portfolio">Portfolio</a>
-                  <a className="nav-item nav-link" href="#contact">Contact</a>
+                  <a className="nav-item nav-link" href="/about">About</a>
+                  <a className="nav-item nav-link" href="/portfolio">Portfolio</a>
+                  <a className="nav-item nav-link" href="/contact">Contact</a>
               </div>
           </div>
       </div>
